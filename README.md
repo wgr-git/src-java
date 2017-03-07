@@ -1,2 +1,2 @@
 # src-java
-myself
+Java's resources.
